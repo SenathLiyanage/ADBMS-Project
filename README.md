@@ -7,8 +7,8 @@ https://github.com/SenathLiyanage/ADBMS-Project/assets/99049759/81beb14a-0fc8-4e
 
 https://github.com/SenathLiyanage/ADBMS-Project/assets/99049759/ede5dff9-82a4-4483-bebe-ef46336a43bb
 
-<b>ER Diagram</b>
+<b>ER Diagram</b><br>
 ![image](https://github.com/SenathLiyanage/ADBMS-Project/assets/99049759/eb0b6d5a-a6a6-47ee-9f22-69f5d7ab177a)
 
-<b>Use Case Diagram</b>
+<b>Use Case Diagram</b><br>
 ![image](https://github.com/SenathLiyanage/ADBMS-Project/assets/99049759/66b5dcbc-7347-431a-a22f-dd0a09ad4bb6)
